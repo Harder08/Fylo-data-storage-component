@@ -63,8 +63,8 @@
         background: url(/images/bg-desktop.png);
         background-color: var(--Very-Dark-Blue);
         background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+        background-size: contain;
+        background-position: 0 300px;
     }
 
     .container {
